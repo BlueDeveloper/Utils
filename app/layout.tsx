@@ -13,6 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://bdarchive.site"),
   title: "사무 유틸리티 - 업무에 필요한 모든 도구",
   description: "문서 변환, 날짜 계산, 파일 처리 등 사무 업무에 필요한 다양한 유틸리티를 제공합니다",
 };

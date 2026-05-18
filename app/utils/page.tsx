@@ -1,6 +1,13 @@
+import type { Metadata } from 'next';
 import Header from '@/components/layouts/Header';
 import UtilityCard from '@/components/ui/UtilityCard';
 import { utilities, getCategoryName } from '@/lib/constants/utilities';
+
+export const metadata: Metadata = {
+  title: '사무 유틸리티 - 업무에 필요한 모든 도구',
+  description: '문서 변환, 날짜 계산, 파일 처리 등 사무 업무에 필요한 다양한 유틸리티를 제공합니다',
+  alternates: { canonical: 'https://bdarchive.site/utils/' },
+};
 
 export default function Home() {
   const categories = ['document', 'date', 'file'] as const;
