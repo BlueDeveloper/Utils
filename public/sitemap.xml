@@ -2,73 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://bdarchive.site/utils/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/monthly-work-hours/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/file-renamer/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/file-renamer/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/json-formatter/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/json-formatter/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/csv-json/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/text-cleaner/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/sql-to-csv/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/sql-to-csv/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/text-cleaner/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/workday-calculator/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/workday-calculator/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/image-converter/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/dday-calculator/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/dday-calculator/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/monthly-work-hours/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/csv-json/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/image-converter/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/pdf-merger/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/pdf-merger/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://bdarchive.site/utils/utils/pdf-splitter/</loc>
-    <lastmod>2026-02-21</lastmod>
+    <loc>https://bdarchive.site/utils/pdf-splitter/</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
