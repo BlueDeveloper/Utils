@@ -41,6 +41,14 @@ export const utilities: Utility[] = [
     icon: '🧹',
     category: 'document'
   },
+  {
+    id: 'url-encoder',
+    title: 'URL 인코더/디코더',
+    description: '한글·특수문자가 포함된 URL을 percent-encoding으로 변환합니다',
+    href: '/utils/url-encoder',
+    icon: '🔗',
+    category: 'document'
+  },
 
   // 날짜/근무 계산
   {
