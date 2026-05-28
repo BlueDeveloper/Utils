@@ -27,16 +27,11 @@ export default function RootLayout({
   return (
     <html lang="ko">
       <head>
-        <Script id="canonical-host-redirect" strategy="beforeInteractive">{`
-          (function(){
-            try {
-              var h = location.host;
-              if (h !== 'bdarchive.site' && h.indexOf('localhost') === -1) {
-                location.replace('https://bdarchive.site' + location.pathname.replace(/^\\/utils/, '/utils') + location.search + location.hash);
-              }
-            } catch(e){}
-          })();
-        `}</Script>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var h=location.host;if(h!=='bdarchive.site'&&h.indexOf('localhost')===-1){location.replace('https://bdarchive.site'+location.pathname+location.search+location.hash);}}catch(e){}})();`,
+          }}
+        />
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-9R933EXKXN"
           strategy="afterInteractive"
